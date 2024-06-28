@@ -51,8 +51,8 @@ export default function RootLayout({
 
 				<footer className="text-center text-sm dark:text-gray-400 text-gray-600 font-mono">
 					<p>
-						<A href="https://github.com/ai-ng">ai-ng</A> /{" "}
-						<A href="https://nickoates.com">nick oates</A>
+						<A href="https://github.com/ShuvoProgram">Shuvo Khan</A> /{" "}
+						<A href="https://shuvo-dev.vercel.app/">own Portfolio</A>
 					</p>
 					<p>
 						Built with{" "}
@@ -60,7 +60,7 @@ export default function RootLayout({
 						<A href="https://groq.com">Groq</A>
 					</p>
 					<p>
-						<A href="https://github.com/ai-ng/magic-spell">
+						<A href="https://github.com/ShuvoProgram/magic-spell">
 							source
 						</A>{" "}
 						/{" "}
